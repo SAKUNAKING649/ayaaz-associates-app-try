@@ -1,0 +1,7 @@
+{
+  "name": "Ayaz Associates - Premium Real Estate & Consultation",
+  "description": "A high-end, modern real estate platform for Ayaz Associates, featuring AI-powered property consultation, featured listings, and interactive client services based in Karachi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
